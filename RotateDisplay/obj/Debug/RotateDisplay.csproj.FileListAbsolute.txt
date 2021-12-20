@@ -1,0 +1,10 @@
+C:\Users\s137977\source\repos\RotateDisplay\RotateDisplay\bin\Debug\RotateDisplay.exe.config
+C:\Users\s137977\source\repos\RotateDisplay\RotateDisplay\bin\Debug\RotateDisplay.exe
+C:\Users\s137977\source\repos\RotateDisplay\RotateDisplay\bin\Debug\RotateDisplay.pdb
+C:\Users\s137977\source\repos\RotateDisplay\RotateDisplay\obj\Debug\RotateDisplay.csprojAssemblyReference.cache
+C:\Users\s137977\source\repos\RotateDisplay\RotateDisplay\obj\Debug\RotateDisplay.Form1.resources
+C:\Users\s137977\source\repos\RotateDisplay\RotateDisplay\obj\Debug\RotateDisplay.Properties.Resources.resources
+C:\Users\s137977\source\repos\RotateDisplay\RotateDisplay\obj\Debug\RotateDisplay.csproj.GenerateResource.cache
+C:\Users\s137977\source\repos\RotateDisplay\RotateDisplay\obj\Debug\RotateDisplay.csproj.CoreCompileInputs.cache
+C:\Users\s137977\source\repos\RotateDisplay\RotateDisplay\obj\Debug\RotateDisplay.exe
+C:\Users\s137977\source\repos\RotateDisplay\RotateDisplay\obj\Debug\RotateDisplay.pdb
